@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 0px;
+  margin: 5px;
+}
+
+section .join-us {
+  background-color: rgb(-0 5 54);
+  margin: 50px;
+}
