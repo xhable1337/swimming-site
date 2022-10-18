@@ -1,19 +1,19 @@
 /* Подключение шрифтов */
 @font-face {
   font-family: "Maven Pro";
-  src: url(/fonts/MavenPro.ttf);
+  src: url(./fonts/MavenPro.ttf);
   font-weight: 300;
 }
 
 @font-face {
   font-family: "Maven Pro";
-  src: url(/fonts/MavenPro.ttf);
+  src: url(./fonts/MavenPro.ttf);
   font-weight: bold;
 }
 
 @font-face {
   font-family: "Agustina";
-  src: url(/fonts/Agustina.otf);
+  src: url(./fonts/Agustina.otf);
 }
 
 /* Сброс стилей */
