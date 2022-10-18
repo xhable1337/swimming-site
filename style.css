@@ -1,15 +1,5 @@
 /* Подключение шрифтов */
-@font-face {
-  font-family: "Maven Pro";
-  src: url(./fonts/MavenPro.ttf);
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Maven Pro";
-  src: url(./fonts/MavenPro.ttf);
-  font-weight: bold;
-}
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;600;900&display=swap");
 
 @font-face {
   font-family: "Agustina";
@@ -104,6 +94,7 @@ img.dotted-circle {
 /* Текст цитаты */
 .blockquote > p.quote {
   position: absolute;
+  text-align: center;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
